@@ -30,8 +30,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/Fazo-AI.git
-cd Fazo-AI
+git clone https://github.com/Old-hacker01/FAZO-AI.git
+cd FAZO-AI
 
 # Install dependencies
 pip install -r requirements.txt
