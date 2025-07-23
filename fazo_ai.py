@@ -20,7 +20,7 @@ CONFIG = {
     "whatsapp_link": "https://wa.me/+255675007732",
     "youtube_link": "https://youtube.com/fazo_28",
     "twitter_link": "https://twitter.com/Fazo28_tz",
-    "api_key": "your_stable_diffusion_api_key",
+    "api_key": "A6Bqq8ekKeGXOki1ViTtF3aUajG940RTHN89HyDWI6g8E7CSfgSBQ3FrGUs0",
     "output_dir": "output",
     "max_image_size": (1024, 1024),
     "default_model": "stable-diffusion-xl-1024-v1-0"
